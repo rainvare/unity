@@ -41,7 +41,7 @@ Este repo contiene mis apuntes y ejercicios para el aprendizaje de unity
     - [MECÁNICA DEL JUEGO](#t11-5)
     - [ESTADO DEL JUEGO](#t11-6)
     - [INTERFACES](#t11-7)
-
+- [Interfaz de Unity](#t12)
 
 -------------------------------
 
@@ -458,3 +458,7 @@ en el jugador y obviamente debe estar relacionada con el concepto del juego.
 así como también los estados que se puedan invocar en ella. 
 
 NIVELES, PROGRESO, ARMAS, ITEMS, HABILIDADES, PERSONAJES, GUIÓN, LOGROS, CÓDIGOS, IMÁGENES, SONIDO y EL EQUIPO DE DESARROLLO.
+
+
+## Interfaz de Unity <a id='t12'></a>
+![interfaz](./img/InterfazUnity_Layout.png)
